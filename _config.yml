@@ -1,0 +1,28 @@
+name: Brazier coffee Machines
+favicon: null
+layout_spectrum: 0.6894263394642621
+typography_spectrum: 0.3552133475895971
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6142590327654034
+  lightness: 0.1660859261173755
+  saturation: 0.5311831554863602
+  rhythmicContrast: 0.10761152999475598
+purpose: []
